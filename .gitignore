@@ -1,0 +1,10 @@
+# Exclude the .htaccess file
+.htaccess
+
+# Exclude OS X folder attributes
+.DS_Store
+
+# Exclude text files
+*.txt
+# Except README files
+!README.txt
